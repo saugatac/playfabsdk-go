@@ -1,4 +1,4 @@
-module github.com/dgkanatsios/playfabsdk-go
+module github.com/saugatac/playfabsdk-go
 
 go 1.20
 
